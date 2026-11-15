@@ -88,15 +88,15 @@ Currently expanding my expertise in modern cloud data engineering with **Snowfla
 
 **Technologies:** Python, SQL, Pandas, PySpark 
 
-• Deliver technical training to engineering students and working professionals through instructor-led and hands-on sessions.
-• Conduct training on Python, SQL, Pandas, NumPy, and PySpark, with a focus on practical programming and data engineering concepts.
-• Design and deliver real-world coding exercises, problem-solving sessions, and project-based assignments to strengthen participants’
+ - Deliver technical training to engineering students and working professionals through instructor-led and hands-on sessions.
+ - Conduct training on Python, SQL, Pandas, NumPy, and PySpark, with a focus on practical programming and data engineering concepts.
+ - Design and deliver real-world coding exercises, problem-solving sessions, and project-based assignments to strengthen participants’
 technical skills.
-• Train learners in Python programming, data manipulation, SQL querying, data analysis, and distributed data processing using
+ - Train learners in Python programming, data manipulation, SQL querying, data analysis, and distributed data processing using
 PySpark.
-• Provide guidance on coding practices, debugging, performance optimization, and practical implementation of data-related solutions.
-• Customize training content based on learners' academic requirements, professional roles, and interview/job-oriented skill development.
-• Mentor participants through hands-on projects and help them apply technical concepts to real-world data engineering and analytics use
+ - Provide guidance on coding practices, debugging, performance optimization, and practical implementation of data-related solutions.
+ - Customize training content based on learners' academic requirements, professional roles, and interview/job-oriented skill development.
+ - Mentor participants through hands-on projects and help them apply technical concepts to real-world data engineering and analytics use
 cases.
 
 ### 2. Enterprise Metadata Analytics Integration Platform
@@ -105,18 +105,18 @@ cases.
 **Duration** July 2023 – June 2025
 **Technologies:** Dataiku, Python, SQL, Azure Boards
 
-• Developed a data analytics solution using Dataiku, Python, Pandas, and SQL to extract, analyze, and report enterprise metadata across
+ - Developed a data analytics solution using Dataiku, Python, Pandas, and SQL to extract, analyze, and report enterprise metadata across
 multiple Dataiku assets.
-• Collected and consolidated metadata from Projects, Datasets, Recipes, Managed Folders, Connections, and Models to create a
+ - Collected and consolidated metadata from Projects, Datasets, Recipes, Managed Folders, Connections, and Models to create a
 centralized analytical repository.
-• Performed data cleaning, transformation, and enrichment using Python and Pandas, including parsing nested JSON data and preparing
+ - Performed data cleaning, transformation, and enrichment using Python and Pandas, including parsing nested JSON data and preparing
 datasets for analysis and reporting.
-• Designed and executed SQL queries to generate insights on project usage, dataset dependencies, workflow activities, and data lineage
+ - Designed and executed SQL queries to generate insights on project usage, dataset dependencies, workflow activities, and data lineage
 metrics.
-• Built interactive Power BI dashboards to visualize metadata trends, project statistics, asset utilization, and governance, enabling
+ - Built interactive Power BI dashboards to visualize metadata trends, project statistics, asset utilization, and governance, enabling
 stakeholders to monitor platform health and adoption.
-• Created reusable data preparation workflows in Dataiku DSS, enabling efficient analysis and reporting across multiple environments.
-• Delivered actionable insights that supported data governance, operational monitoring, and decision-making through automated
+ - Created reusable data preparation workflows in Dataiku DSS, enabling efficient analysis and reporting across multiple environments.
+ - Delivered actionable insights that supported data governance, operational monitoring, and decision-making through automated
 dashboards and reports.
 
 🔗 [Explore Repository](https://github.com/rudrabrahma63/Bank_Transaction_Analysis_with_Snowflake_DBT)
@@ -127,12 +127,12 @@ dashboards and reports.
 **Duration** January 2023 - June 2023
 **Technologies** Python, Pandas, Excel, SQL, Azure Boards
 
-• Developed a Python-based solution for the CDAS project to extract, clean, and analyze data from various technical files such as C header files,
+ - Developed a Python-based solution for the CDAS project to extract, clean, and analyze data from various technical files such as C header files,
 calibration files, interface and RTE files.
-• Implemented custom logic in Pandas to parse and process data from multiple sources, performing data transformation and validation.
-• Wrote SQL queries to filter and compare data across versions, enabling insightful version comparisons and detecting changes.
-• Built automated graphical visualizations by comparing input/output metrics, and generated structured reports in CSV and Excel formats.
-• Packaged the solution into a standalone .exe tool using PyInstaller, and usable for all team members without the need for Python installation
+ - Implemented custom logic in Pandas to parse and process data from multiple sources, performing data transformation and validation.
+ - Wrote SQL queries to filter and compare data across versions, enabling insightful version comparisons and detecting changes.
+ - Built automated graphical visualizations by comparing input/output metrics, and generated structured reports in CSV and Excel formats.
+ - Packaged the solution into a standalone .exe tool using PyInstaller, and usable for all team members without the need for Python installation
 
 🔗 [Explore My Repositories](https://github.com/rudrabrahma63?tab=repositories)
 
@@ -142,11 +142,10 @@ calibration files, interface and RTE files.
 **Duration** June 2022 - September 2022
 **Technologies** Python, Dynamics-365
 
-• Developed Python scripts to validate product-related data inputs such as product name, date, and order status, streamlining order tracking
+ - Developed Python scripts to validate product-related data inputs such as product name, date, and order status, streamlining order tracking
 across teams.
-• Automated the process of assigning validated orders to relevant team members for further action.
-• Participated in manual testing of work orders followed by the implementation of automation logic to ensure accurate functional and data validation
-of the web application.
+ - Automated the process of assigning validated orders to relevant team members for further action.
+ - Participated in manual testing of work orders followed by the implementation of automation logic to ensure accurate functional and data validation of the web application.
 
 ### 5. Backend Data Validation for Web Application
 **Role** QA Engineer
@@ -154,11 +153,11 @@ of the web application.
 **Duration** December 2021 - June 2022
 **Technologies** Python, Pytest, Selenium, SQL, JIRA
 
-• Performed backend data validation by writing SQL queries within Python scripts to ensure consistency and correctness of data stored in database
+ - Performed backend data validation by writing SQL queries within Python scripts to ensure consistency and correctness of data stored in database
 tables.
-• Verified DML operations and changes on LIMA’s internal products (SITNEXT, SIT230), validating updates and ensuring integrity of rows and
+ - Verified DML operations and changes on LIMA’s internal products (SITNEXT, SIT230), validating updates and ensuring integrity of rows and
 columns reflected in the application UI.
-• Used Power BI for visual representation and tracking of backend data validation results, helping stakeholders understand anomalies and
+ - Used Power BI for visual representation and tracking of backend data validation results, helping stakeholders understand anomalies and
 corrections.
 
 ### 6. Data Preprocessing and Validation in Application Migration
@@ -167,11 +166,11 @@ corrections.
 **Duration** August 2020 - December 2021
 **Technologies** Python, Pandas, SQL, PySpark
 
-• Worked on data migration and validation for the company’s proprietary platform (DAAS Labs), focusing on backend processing and front-
+ - Worked on data migration and validation for the company’s proprietary platform (DAAS Labs), focusing on backend processing and front-
 end verification.
-• Used PySpark to preprocess large datasets, including tasks like schema modifications, column-level transformations, and data type
+ - Used PySpark to preprocess large datasets, including tasks like schema modifications, column-level transformations, and data type
 adjustments for compatibility with the target application.
-• Verified data consistency by cross-checking transformed data with UI, ensuring the correctness of displayed data post-migration
+ - Verified data consistency by cross-checking transformed data with UI, ensuring the correctness of displayed data post-migration
 
 ### 7. Predict research data to enhance scientific analysis
 **Role** Project Analyst Fellow
@@ -179,17 +178,17 @@ adjustments for compatibility with the target application.
 **Duration** November 2013 - April 2019
 **Technologies** Material Science, Python, Origin Visual, Excel
 
-• Analyzed research data from Excel sheets and implemented data visualization using Python libraries such as Pandas, Matplotlib, Plotly, and
+ - Analyzed research data from Excel sheets and implemented data visualization using Python libraries such as Pandas, Matplotlib, Plotly, and
 NumPy to compare current research methods with historical data.
-• Contributed to R&D insights by identifying patterns in experimental data, enabling researchers to predict and propose better experimental
+ - Contributed to R&D insights by identifying patterns in experimental data, enabling researchers to predict and propose better experimental
 approaches.
-• Supported decision-making in ongoing research by generating visual evidence of performance differences in chemical and nanomaterial
+ - Supported decision-making in ongoing research by generating visual evidence of performance differences in chemical and nanomaterial
 processes.
 **Earlier Role (2013–2017): Project Assistant Fellow II**
-• Worked in Nanomaterials synthesis and application in Nano Technology at CSIR-IICT.
-• Contributed to multiple research projects, resulting in two (2) international journal publications, including one in ACS Applied Materials &
+ - Worked in Nanomaterials synthesis and application in Nano Technology at CSIR-IICT.
+ - Contributed to multiple research projects, resulting in two (2) international journal publications, including one in ACS Applied Materials &
 Interfaces (Impact Factor: 9.229).
-• Played a hands-on role in lab-based research, focusing on real-world implementation of synthesized materials for advanced applications.
+ - Played a hands-on role in lab-based research, focusing on real-world implementation of synthesized materials for advanced applications.
 
 ### 8. Teaching
 **Role** Assistant Professor
@@ -197,11 +196,11 @@ Interfaces (Impact Factor: 9.229).
 **Duration** September 2010 - June 2011
 **Technologies** Engineering Physics, Excel, Word, Powerpoint
 
-• Taught Engineering Physics to undergraduate students, focusing on core concepts and their application in engineering disciplines.
-• Engaged in academic mentoring and preparation support for students aiming for competitive exams like GATE.
-• Academic Preparation Phase (July 2011 – Dec 2012), Dedicated full-time to preparing for GATE and CSIR-UGC NET exams, focusing on
+ - Taught Engineering Physics to undergraduate students, focusing on core concepts and their application in engineering disciplines.
+ - Engaged in academic mentoring and preparation support for students aiming for competitive exams like GATE.
+ - Academic Preparation Phase (July 2011 – Dec 2012), Dedicated full-time to preparing for GATE and CSIR-UGC NET exams, focusing on
 advanced concepts in Physics and Applied Sciences.
-• Secured UGC NET exam rank 0382 and selected as a Junior Project analyst in CSIR-IICT, Hyderabad (Nov, 2013)
+ - Secured UGC NET exam rank 0382 and selected as a Junior Project analyst in CSIR-IICT, Hyderabad (Nov, 2013)
 
 ---
 
