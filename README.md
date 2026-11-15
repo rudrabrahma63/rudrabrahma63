@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Veera Brahma Chari Gundimeda
+# Hi there! 👋 I'm Dataiku Analytical Engineer
 
-### Dataiku Analytical Engineer | Python | SQL | Snowflake | dbt | PySpark
+### Dataiku Engineer | Python | SQL | Snowflake | dbt | PySpark
 
 
 Welcome to my GitHub profile!
