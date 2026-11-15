@@ -29,22 +29,22 @@ Currently expanding my expertise in modern cloud data engineering with **Snowfla
 
 ## 🛠️ Technical Skills
 
-### Programming & Query Languages
+#### Programming & Query Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Data Processing & Engineering
+#### Data Processing & Engineering
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge)
 
-### Cloud Data Platforms & Analytics Engineering
+#### Cloud Data Platforms & Analytics Engineering
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white)
 
-### Data Visualization & Development Tools
+#### Data Visualization & Development Tools
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -107,14 +107,17 @@ Currently working as a Freelancer and Technical Trainer, delivering instructor-l
 - Data Processing & Transformation
 - Practical Data Engineering Concepts
 
+| Role | Organization / Work | Period |
 ---
 
 ## 🏆 Certifications
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Microsoft Certified: Fabric Data Engineer Associate
-- Dataiku Core Designer
-- Dataiku Advanced Designer
+| Certification Name | Credential ID | Code | Approved By | Expiry Date | Verification Link |
+|---|---|---|---|---|---|
+| Azure Fundamentals (AZ-900) | 830FF4A5F69523AB | C81FWC-4563A7 | Microsoft | Never | — |
+| Dataiku Core Designer | vgrdvihekk5j | — | Dataiku | Never | — |
+| Dataiku Advanced Designer | h7bzfk5xbghf | — | Dataiku | Never | — |
+| Fabric Data Engineer Associate | 65EC3BC463702D8D | A76572-331K54 | Microsoft | Dec 14, 2027 |
 
 🔗 [View Certification Repository](https://github.com/rudrabrahma63/Certifications)
 
