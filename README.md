@@ -85,7 +85,7 @@ Currently expanding my expertise in modern cloud data engineering with **Snowfla
 ## 🚀 Projects
 
 ### 1. Freelancer & Trainer
- - *Technologies : Python, SQL, Pandas, PySpark*
+##### *Technologies : Python, SQL, Pandas, PySpark*
 
  - Deliver technical training to engineering students and working professionals through instructor-led and hands-on sessions.
  - Conduct training on Python, SQL, Pandas, NumPy, and PySpark, with a focus on practical programming and data engineering concepts.
