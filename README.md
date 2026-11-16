@@ -147,7 +147,7 @@ across teams.
  - Participated in manual testing of work orders followed by the implementation of automation logic to ensure accurate functional and data validation of the web application.
 
 ### 5. Backend Data Validation for Web Application
-##### *Role : QA Engineer
+##### *Role : QA Engineer*
 ##### *Company : Lima Soft India Pvt Ltd (ALINE), Hyderabad(wfh), India.,*
 ##### *Duration : December 2021 - June 2022*
 ##### *Technologies : Python, Pytest, Selenium, SQL, JIRA*
