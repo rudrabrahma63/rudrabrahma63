@@ -85,7 +85,7 @@ Currently expanding my expertise in modern cloud data engineering with **Snowfla
 ## 🚀 Projects
 
 ### 1. Freelancer & Trainer
-##### *Technologies : Python, SQL, Pandas, PySpark*
+#### Technologies : Python, SQL, Pandas, PySpark
 
  - Deliver technical training to engineering students and working professionals through instructor-led and hands-on sessions.
  - Conduct training on Python, SQL, Pandas, NumPy, and PySpark, with a focus on practical programming and data engineering concepts.
@@ -99,7 +99,7 @@ PySpark.
 cases.
 
 ### 2. Enterprise Metadata Analytics Integration Platform
-##### *Senior Software Engineer* | *Expleo Solutions Limited, Pune (wfh), India.,* | *July 2023 – June 2025* | *Dataiku, Python, SQL, Azure Boards*
+#### Senior Software Engineer* | *Expleo Solutions Limited, Pune (wfh), India.,* | *July 2023 – June 2025* | *Dataiku, Python, SQL, Azure Boards
 
  - Developed a data analytics solution using Dataiku, Python, Pandas, and SQL to extract, analyze, and report enterprise metadata across
 multiple Dataiku assets.
