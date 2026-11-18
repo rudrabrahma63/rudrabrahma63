@@ -99,10 +99,8 @@ PySpark.
 cases.
 
 ### 2. Enterprise Metadata Analytics Integration Platform
-##### *Role : Senior Software Engineer*
-##### *Company : Expleo Solutions Limited, Pune (wfh), India.,*
-##### *Duration : July 2023 – June 2025*
-##### *Technologies: Dataiku, Python, SQL, Azure Boards*
+##### *Senior Software Engineer* | *Company : Expleo Solutions Limited, Pune (wfh), India.,* | *July 2023 – June 2025*
+##### *Dataiku, Python, SQL, Azure Boards*
 
  - Developed a data analytics solution using Dataiku, Python, Pandas, and SQL to extract, analyze, and report enterprise metadata across
 multiple Dataiku assets.
