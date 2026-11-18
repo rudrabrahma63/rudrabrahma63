@@ -99,7 +99,7 @@ PySpark.
 cases.
 
 ### 2. Enterprise Metadata Analytics Integration Platform
-#### Senior Software Engineer* | *Expleo Solutions Limited, Pune (wfh), India.,* | *July 2023 – June 2025* | *Dataiku, Python, SQL, Azure Boards
+#### Senior Software Engineer | Expleo Solutions Limited, Pune (wfh), India., | July 2023 – June 2025 | Dataiku, Python, SQL, Azure Boards
 
  - Developed a data analytics solution using Dataiku, Python, Pandas, and SQL to extract, analyze, and report enterprise metadata across
 multiple Dataiku assets.
@@ -118,7 +118,7 @@ dashboards and reports.
 🔗 [Explore Repository](https://github.com/rudrabrahma63/Bank_Transaction_Analysis_with_Snowflake_DBT)
 
 ### 3. Pre-process and data analysis with Pandas SQL queries
-##### *Senior Software Engineer* | *Expleo Solutions Limited, Bengaluru (wfh), India.,* | *January 2023 - June 2023* | *Python, Pandas, Excel, SQL, Azure Boards*
+#### Senior Software Engineer | Expleo Solutions Limited, Bengaluru (wfh), India., | January 2023 - June 2023 | Python, Pandas, Excel, SQL, Azure Boards
 
  - Developed a Python-based solution for the CDAS project to extract, clean, and analyze data from various technical files such as C header files,
 calibration files, interface and RTE files.
@@ -130,7 +130,7 @@ calibration files, interface and RTE files.
 🔗 [Explore My Repositories](https://github.com/rudrabrahma63?tab=repositories)
 
 ### 4. Functional & Data Validation of Web Application
-##### *Python Engineer* | *JoulesToWatts Business Solutions, Bengaluru (wfh), India.,* | *June 2022 - September 2022* | *Python, Dynamics-365*
+#### Python Engineer | JoulesToWatts Business Solutions, Bengaluru (wfh), India., | June 2022 - September 2022 | Python, Dynamics-365
 
  - Developed Python scripts to validate product-related data inputs such as product name, date, and order status, streamlining order tracking
 across teams.
@@ -138,7 +138,7 @@ across teams.
  - Participated in manual testing of work orders followed by the implementation of automation logic to ensure accurate functional and data validation of the web application.
 
 ### 5. Backend Data Validation for Web Application
-##### *QA Engineer* | *Lima Soft India Pvt Ltd (ALINE), Hyderabad(wfh), India.,* | *December 2021 - June 2022* | *Python, Pytest, Selenium, SQL, JIRA*
+#### QA Engineer | Lima Soft India Pvt Ltd (ALINE), Hyderabad(wfh), India., | December 2021 - June 2022 | Python, Pytest, Selenium, SQL, JIRA
 
  - Performed backend data validation by writing SQL queries within Python scripts to ensure consistency and correctness of data stored in database
 tables.
@@ -148,7 +148,7 @@ columns reflected in the application UI.
 corrections.
 
 ### 6. Data Preprocessing and Validation in Application Migration
-##### *Data Engineer* | *Data & Analytics Services Pvt Ltd., Gurgaon (wfo), India.,* | *August 2020 - December 2021* | *Python, Pandas, SQL, PySpark*
+#### Data Engineer | Data & Analytics Services Pvt Ltd., Gurgaon (wfo), India., | August 2020 - December 2021 | Python, Pandas, SQL, PySpark
 
  - Worked on data migration and validation for the company’s proprietary platform (DAAS Labs), focusing on backend processing and front-
 end verification.
@@ -157,7 +157,7 @@ adjustments for compatibility with the target application.
  - Verified data consistency by cross-checking transformed data with UI, ensuring the correctness of displayed data post-migration
 
 ### 7. Predict research data to enhance scientific analysis
-##### *Project Analyst Fellow* | *CSIR – IICT, Hyderabad, India* | *November 2013 - April 2019* | *Material Science, Python, Origin Visual, Excel*
+#### Project Analyst Fellow | CSIR – IICT, Hyderabad, India | November 2013 - April 2019 | Material Science, Python, Origin Visual, Excel
 
  - Analyzed research data from Excel sheets and implemented data visualization using Python libraries such as Pandas, Matplotlib, Plotly, and
 NumPy to compare current research methods with historical data.
@@ -172,7 +172,7 @@ Interfaces (Impact Factor: 9.229).
  - Played a hands-on role in lab-based research, focusing on real-world implementation of synthesized materials for advanced applications.
 
 ### 8. Teaching
-##### *Assistant Professor* | *Narasaraopet Institute of Technology, Group of NEC, Narasaraopet* | *September 2010 - June 2011* | *Engineering Physics, Excel, Word, Powerpoint*
+#### Assistant Professor | Narasaraopet Institute of Technology, Group of NEC, Narasaraopet | September 2010 - June 2011 | Engineering Physics, Excel, Word, Powerpoint
 
  - Taught Engineering Physics to undergraduate students, focusing on core concepts and their application in engineering disciplines.
  - Engaged in academic mentoring and preparation support for students aiming for competitive exams like GATE.
